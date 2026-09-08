@@ -1,0 +1,16 @@
+#Approach
+The goal is to build a simple, user-friendly console calculator where the user can choose an operation, enter two numbers, and immediately see the result.
+
+The overall approach is:
+
+Start the application
+Display a menu with available operations.
+Take the user's choice.
+Validate the choice.
+Read the first number.
+Read the second number.
+Perform the selected calculation.
+Handle special cases, such as division by zero.
+Display the result.
+Show the menu again so the user can perform another calculation.
+If the user selects Exit, terminate the program
